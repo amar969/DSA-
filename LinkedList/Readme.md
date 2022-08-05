@@ -6,7 +6,7 @@ The linked list data structure value can be of any data type (string, number, bo
 
 It has two pointers **HEAD** and **TAIL** which represents the first and the last node respectively.
 
-[Linked List]("https://satin-crabapple-c09.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F86240742-cf51-4e9f-b822-ec82e2a12eed%2FScreenshot_2022-06-02_at_1.42.26_AM.png?table=block&id=037367d2-3be9-49da-9888-b3cf720e2607&spaceId=86b12707-037d-4f1c-8cde-bed407df600e&width=2000&userId=&cache=v2")
+[Linked List](<img src="https://satin-crabapple-c09.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F86240742-cf51-4e9f-b822-ec82e2a12eed%2FScreenshot_2022-06-02_at_1.42.26_AM.png?table=block&id=037367d2-3be9-49da-9888-b3cf720e2607&spaceId=86b12707-037d-4f1c-8cde-bed407df600e&width=2000&userId=&cache=v2" alt="Linked List"/> )
 
 ```
 {
