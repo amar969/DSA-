@@ -4,3 +4,6 @@
 2. [Pattern Printing](./pattern-printing/pattern.md)
 3. [Linked List](./LinkedList/Readme.md)
 4. [Bubble Sort](./BubbleSort/Readme.md)
+5. [Selection Sort](./SelectionSort/Readme.md)
+6. [String](./String%20/)
+7. [Object](./Object/)

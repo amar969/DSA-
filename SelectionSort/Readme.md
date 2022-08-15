@@ -14,7 +14,7 @@ For the first position in the sorted array, the whole array is traversed from in
 Thus, replace 64 with 11. After one iteration 11, which happens to be the least value in the array, tends to appear in the first position of the sorted list.
 
 ```
-11 25      12      22   64
+11      25      12      22   64
 ```
 
 ### Second Phase 
@@ -54,8 +54,8 @@ At last the largest value present in the array automatically get placed at the l
 ```
 
 ## Approach 
-- *Initialize minimum value(min_idx) to location 0.
-- *Traverse the array to find the minimum element in the array.
-- *While traversing if any element smaller than **min_idx** is found then swap both the values.
-- *Then, increment min_idx to point to next element.
-- *Repeat until array is sorted.
+- Initialize minimum value(min_idx) to location 0.
+- Traverse the array to find the minimum element in the array.
+- While traversing if any element smaller than **min_idx** is found then swap both the values.
+- Then, increment min_idx to point to next element.
+- Repeat until array is sorted.
