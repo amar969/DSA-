@@ -7,3 +7,4 @@
 5. [Selection Sort](./SelectionSort/Readme.md)
 6. [String](./String%20/)
 7. [Object](./Object/)
+8. [Quick Sort Algorithm](./QuickSort/)
