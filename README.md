@@ -8,3 +8,4 @@
 6. [String](./String%20/)
 7. [Object](./Object/)
 8. [Quick Sort Algorithm](./QuickSort/)
+9. [Stack](./Stack/)
