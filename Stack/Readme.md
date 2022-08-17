@@ -10,3 +10,4 @@ The push() operation is used to add elements at the top of the stack, while the 
 Care has to be taken that the pop() and peek() operation should not be performed on an empty stack
 7. The following code block represents the various operations on the stack.
 
+1. [Paranthesis Problem with stack]

@@ -9,3 +9,5 @@
 7. [Object](./Object/)
 8. [Quick Sort Algorithm](./QuickSort/)
 9. [Stack](./Stack/)
+10. [Bit Manipulation](./Bit/)
+
