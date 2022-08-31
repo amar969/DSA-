@@ -48,3 +48,6 @@ l = 1, r =4
 6. Case Six, 
 l = 2, r= 4 
 7  + 9 = 16 == K return true
+
+
+Similarly we do it for triplet sum -> Check out TripletSum.js
