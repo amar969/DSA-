@@ -27,9 +27,9 @@ const mergeSorted = (arr1, arr2, arr3) => {
     }
 
     while(j < arr2.length){
-        arr3[k] = arr2[j]
-        j++
-        k++
+        arr3[k++] = arr2[j++]
+        // post increment k++ and j++
+       
     }
 
     return arr3

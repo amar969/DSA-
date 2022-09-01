@@ -64,4 +64,10 @@ We will fix it with two pointer approach in $0(N) time complexity.
 4. else if zeros on right or one on the left we will switch the values 
 
 
-
+# Sliding Window 
+       ⬇️
+--------------------------------------------------
+⬇️                                               ⬇️
+Model - 1                                   Model - 2 
+- Size of Sliding window is fixed           - Size of the sliding window may vary 
+- given in the questions                    - not given in the questions
