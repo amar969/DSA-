@@ -73,4 +73,4 @@ Model - 1                                   Model - 2
 - given in the questions                    - not given in the questions
 
 #### Longest Substring of K distinct elements
-<img src="https://ibb.co/QHhCgpq" alt="longestSubstring"> 
+<img src="https://drive.google.com/file/d/1wqnH5sTRVehPupWDuAHGGCxTpWWEBORq/view?usp=sharing" alt="longestSubstring"> 
