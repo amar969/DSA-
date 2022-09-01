@@ -51,3 +51,17 @@ l = 2, r= 4
 
 
 Similarly we do it for triplet sum -> Check out TripletSum.js
+
+[Segregate O's and 1's](./Segragate0and1.js)
+
+Here we will keep zeros to left and 1's to the right of the array. We will not use sort() method because it has time complexity of $O(N. logN)
+
+We will fix it with two pointer approach in $0(N) time complexity. 
+
+1. Keep one pointer on the left and another on the right 
+2. If zeros on left continue 
+3. If ones on the right continue 
+4. else if zeros on right or one on the left we will switch the values 
+
+
+
