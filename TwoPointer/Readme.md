@@ -72,4 +72,5 @@ Model - 1                                   Model - 2
 - Size of Sliding window is fixed           - Size of the sliding window may vary 
 - given in the questions                    - not given in the questions
 
-[LongSubstringWithKDistinctChar](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/yk/rhcjyrld5_7dmn067kq7xg340000gn/T/TemporaryItems/NSIRD_screencaptureui_UpYZI9/Screenshot%202022-09-01%20at%2011.26.58%20AM.png?version%3D1662011840613)
+#### Longest Substring of K distinct elements
+<img src="https://ibb.co/QHhCgpq" alt="longestSubstring"> 
