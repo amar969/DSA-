@@ -4,6 +4,33 @@ arr = [7, 4, 9, 6, 21, 8, 11, 17]
 N = 8 
 K = 16 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // First Approach -> Brute force approach 
 const PairSum = (arr, N, K) => {
     for(let i=0; i<N; i++){
@@ -19,6 +46,25 @@ console.log(PairSum(arr, N, K))
 // Time Complexity here is O(N ^ 2)
 
 // Second Approach -> Two Pointer. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // 1. Sort the array 
 // 2. two pointer technique 
