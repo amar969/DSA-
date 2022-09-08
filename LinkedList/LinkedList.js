@@ -47,13 +47,39 @@ let node1 = new Node(10)
 let node2 = new Node(20)
 
 node1.next = node2
-node2.next = null
-let lined_list = new LinkedList(node1)
 
-console.log(lined_list)
-
-console.log("Linked List Head", lined_list.getFirst())
-console.log("Linked List Tail", lined_list.getLast())
-console.log("Linked List Size", lined_list.size())
+let head = null
+head = node1 
 
 
+
+// insert at the beginning
+
+function insert_at_beginning(head, data){
+    let new_node = new LinkedList(data)
+    new_node.next = head 
+    head = new_node
+    console.log(head)
+}
+
+insert_at_beginning(head, 5)
+insert_at_beginning(head, 8)
+
+
+function insert_at_end(head, data){
+    let new_node = new Node(data)
+
+    if(head == null){
+        head = new_node
+    }
+    else{
+        let temp = head 
+        while(temp.next != null){
+            temp = temp.next
+        }
+        temp.next = new_node
+    }
+    console.log(head)
+}
+
+insert_at_end(head, 2)
