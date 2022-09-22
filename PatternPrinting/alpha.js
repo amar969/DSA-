@@ -9,7 +9,7 @@ const solve = (str) => {
     }
 }
 
-solve(5)
+//solve(5)
 
 const solve1 = (str) => {
     let alpha = "ABCDEFGHJIKLMNPQRSTUVWXYZ"
@@ -22,7 +22,7 @@ const solve1 = (str) => {
     }
 }
 
-solve1(5)
+//solve1(5)
 
 const solve2 = (str) => {
     let alpha = "ABCDEFGHJIKLMNPQRSTUVWXYZ"
@@ -34,7 +34,7 @@ const solve2 = (str) => {
         console.log(final)
     }
 }
-solve2(5)
+//solve2(5)
 
 
 const solve3 = (str) => {
@@ -49,4 +49,19 @@ const solve3 = (str) => {
     }
 }
 
-solve3(5)
+//solve3(5)
+
+const solve4 = (str) => {
+    let alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    let a = 1
+    for(let i=str; i>=0; i--){
+        let final = ""
+        for(let j=i; j>0; j--){
+            final += alpha[j] + " "
+        }
+        a++
+        console.log(final)
+    }
+}
+
+solve4(5)
