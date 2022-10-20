@@ -1,5 +1,7 @@
 const solve = (arr) => {
-    let ex = arr
+    
+    let ex = []
+    arr.map(n => ex.push(n))
     ex.sort(function(a,b) {return a-b})
     console.log(ex)
     console.log(arr)
@@ -22,3 +24,5 @@ const solve = (arr) => {
 }
 
 solve([1,1,4,2,1,3])
+
+// incorrect
